@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Anuj Chaudhary and I'm a passionate mern developer from India curretly pursuing btech in Information and Techonology ....</h2>
+<h2 align="left">Hi 👋! My name is Anuj Chaudhary and I'm a experienced  MERN stack developer from India ,curretly pursuing btech in Information and Techonology ....</h2>
 
 ###
 
