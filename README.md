@@ -68,7 +68,7 @@
   <a href="https://www.linkedin.com/in/anuj-chaudhary-5b5629255" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/__chaudhary_0008?igsh=MWlwY2dlZ2R1NHRvNg==" target="_blank">
+  <a href="[https://www.instagram.com/__chaudhary_0008?igsh=MWlwY2dlZ2R1NHRvNg==](https://www.instagram.com/_anuj_chaudhary1?igsh=YWRoNzh3bmFyaHVv&utm_source=qr)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 
